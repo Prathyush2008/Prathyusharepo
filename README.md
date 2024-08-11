@@ -1,3 +1,3 @@
 # Prathyusharepo
-I am from Main Brach
-but created sub brach
+I am from Main Branch
+But created sub Branch
